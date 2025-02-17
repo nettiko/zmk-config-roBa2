@@ -91,11 +91,6 @@
             bindings = <&lt 1 LCTRL>;
             key-positions = <0 38>;
         };
-
-        muhenkan {
-            bindings = <&kp INT_MUHENKAN>;
-            key-positions = <0 27>;
-        };
     };
 
     macros {
